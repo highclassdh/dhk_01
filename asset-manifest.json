@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kdo_04/static/css/main.ddec030d.css",
+    "main.js": "/kdo_04/static/js/main.645d1a32.js",
+    "static/js/787.eb514336.chunk.js": "/kdo_04/static/js/787.eb514336.chunk.js",
+    "index.html": "/kdo_04/index.html",
+    "main.ddec030d.css.map": "/kdo_04/static/css/main.ddec030d.css.map",
+    "main.645d1a32.js.map": "/kdo_04/static/js/main.645d1a32.js.map",
+    "787.eb514336.chunk.js.map": "/kdo_04/static/js/787.eb514336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddec030d.css",
+    "static/js/main.645d1a32.js"
+  ]
+}
